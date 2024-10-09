@@ -1,0 +1,5 @@
+executions:
+  python:
+    command: python
+    args:
+      - notion.py
